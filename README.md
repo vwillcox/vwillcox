@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: TalkTechdotinfo on Twitter!
+📫 How to reach me: <a rel="me" href="https://fosstodon.org/@talktech">I am now on Fosstodon/Mastodon!</a>
 
 <!--
 **vwillcox/vwillcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a rel="me" href="https://fosstodon.org/@talktech">I am now on Fosstodon/Mastodon!</a>
