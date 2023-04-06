@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Current Word Cloud](https://talktech.info/wp-content/uploads/2023/02/IMG_20230226_110708-scaled.jpg)
+![Current Word Cloud](https://talktech.info/wp-content/uploads/2023/04/talktech.png)
