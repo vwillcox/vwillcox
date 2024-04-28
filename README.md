@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwillcox&show_icons=true&theme=dark)]
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/vwillcox/63a8f640991eab5095373eb535777c49)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=63a8f640991eab5095373eb535777c49)](https://gist.github.com/vwillcox/63a8f640991eab5095373eb535777c49)
