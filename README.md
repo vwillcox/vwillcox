@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Current Word Cloud](https://talktech.info/wp-content/uploads/2023/04/talktech.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwillcox&show_icons=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwillcox&show_icons=true&theme=dark)
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=63a8f640991eab5095373eb535777c49)](https://gist.github.com/vwillcox/63a8f640991eab5095373eb535777c49)
