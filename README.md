@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: <a rel="me" href="https://fosstodon.org/@talktech">I am now on Fosstodon/Mastodon!</a>
+📫 I am on Hackyderm <a rel="me" href="https://hachyderm.io/@talktech">Mastodon/Hachyderm</a>
 
 <!--
 **vwillcox/vwillcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
